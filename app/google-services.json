@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "971491816117",
+    "firebase_url": "https://fir-prac3-b198b.firebaseio.com",
+    "project_id": "fir-prac3-b198b",
+    "storage_bucket": "fir-prac3-b198b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971491816117:android:b945597577000dbd",
+        "android_client_info": {
+          "package_name": "com.venkat.myfirebase3prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971491816117-n650d70fqg7aq6u13qjed0qa06au49ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFIvhx4IwlU4EgC_Txn1HgM2IhL-kdlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
